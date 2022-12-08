@@ -1,4 +1,4 @@
-This Pwerballproject is written by Temesgen Asmamaw.
+This Powerball project is written by Temesgen Asmamaw.
 
 ###### Powerball#####
 This power ball is for the national lottery. 
